@@ -218,7 +218,7 @@ public class Main {
 
 ## Summary
 
-- Arrays group multiple values of the same type.
+- Arrays group multiple values of the same type..
 - 1D arrays – lists; 2D arrays – tables.
 - Use loops to process arrays.
 - Use array.length to control iteration and avoid errors.
