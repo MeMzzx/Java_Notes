@@ -27,7 +27,7 @@ The elements of an array are stored sequentially in a computer memory and each e
 
 ### A concept of an array
 
-Usually, indices of array elements start with 0 and are assigned by default while declaring an array
+Usually, indices of array elements start with 0 and are assigned by default while declaring an array.
 
 ![Array indices](https://images.openai.com/static-rsc-4/jZijzwPoYZLKbq8Q8TaYL2LVscR1xKYoH8aIGkXY6n_z943PpS6n5lfrA1ikZeSQaNUALHd_k6DlVjQI2QzGdGtF-pibXxVDySs5i68aEW_0-Y6JPGooe855Ft_K86w9iAmR4Y3p183BrGMjigL7Yyk38vIljGfQppYCSCuIqUuZMn6EHwQFvSTaGkwrpo5I?purpose=fullsize)
 
