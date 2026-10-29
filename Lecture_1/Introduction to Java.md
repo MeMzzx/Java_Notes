@@ -28,7 +28,7 @@ System.out.println("Hello World"); // This is a comment
 <img width="885" height="586" alt="image" src="https://github.com/user-attachments/assets/42a711d3-effe-4dcf-8fe4-0a0db5ee42f0" />
 
 
-## Declaration, initialization and assignment of variables in Java
+## Declaration, initialization and assignment of variables in Java.
 
 <img width="928" height="501" alt="image" src="https://github.com/user-attachments/assets/e7dc8c93-a23d-495a-b567-e503e2ec7de4" />
 
